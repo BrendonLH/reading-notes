@@ -16,3 +16,6 @@ Class 301 reading notes
 3. SMACSS 
     a. when building CSS files create layouts.css, main.css, modules.css, reset.css, style.css, theme.css
     b. split your css into the different pages and then import into style.css so its only grabbing from one page on index.html
+
+## class 001 day 2
+    1. cp -rp starter-code lab       creates a folder with the starter code
