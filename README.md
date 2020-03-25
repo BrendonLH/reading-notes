@@ -1,6 +1,12 @@
 # reading-notes
 Class 301 reading notes
 
+# Table of Contents
+
+[Class 1 day 1](##class-1-day-1)
+[class 1 day 2](##class-001-day-2)
+[Jquery Notes](##Jquery-notes-3/25/2020)
+
 
 ## class 001 day 1
 
