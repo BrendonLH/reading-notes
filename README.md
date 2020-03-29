@@ -6,6 +6,7 @@ Class 301 reading notes
 [Class 1 day 1](##class-1-day-1)
 [class 1 day 2](##class-001-day-2)
 [Jquery Notes](##Jquery-notes-3/25/2020)
+[Flexbox and Templating](##flexbox-notes)
 
 
 ## class 001 day 1
@@ -46,3 +47,42 @@ Class 301 reading notes
         a.when adding Jquery, make sure to have a fallback in case the CDN does not work. Have one stored with the rest of your website. 
         b. The script should be placed right before the closing body tag so that way all content is loaded before the Jquery is run. 
         
+## Flexbox Notes
+
+1. Justify-Content : aligns flex items along main axis
+    a. flex-start; (default)
+    b. flex-end;
+    c. space-between;
+    d. space-around;
+2. align-items : aligns flex items along cross axis
+    a. flex-start;
+    b. flex-end;
+    c. center;
+    d. baseline;
+    e. stretch; (default)
+3. flex-direction : defines the direction of main axis
+    a. row; (default)
+    b. row-reverse;
+    c. column; 
+    d. column-reverse;
+4. order : specifies order of items
+    a. integers of ect -2,-1,0,1,2 ect ;
+5. align-self : aligns flex item along cross axis overiding align-items
+    a. flex-start;
+    b. flex-end;
+    c. center; 
+    d. baseline
+    e. stretch
+6. flex-wrap : determines whether it wil be single line or wrapped on multiple lines
+    a. nowrap; (default)
+    b. wrap; 
+    c. wrap-reverse;
+7. flex-flow : short for flex-direction and flex-wrap
+    a. use both flex-direction and flex wrap properties
+8. align-content : aligns flex containers lines within flex container when there is extra space on cross axis
+    a. flex-start;
+    b. flex-end;
+    c. center;
+    d. space-between;
+    e. space-around;
+    f. stretch
