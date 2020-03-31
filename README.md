@@ -7,6 +7,7 @@ Class 301 reading notes
 [class 1 day 2](##class-001-day-2)
 [Jquery Notes](##Jquery-notes-3/25/2020)
 [Flexbox and Templating](##flexbox-notes)
+[Interview Notes](###InterviewQuestions)
 
 
 ## class 001 day 1
@@ -86,3 +87,9 @@ Class 301 reading notes
     d. space-between;
     e. space-around;
     f. stretch
+
+    ### Interview Questions
+
+Practice the ability to think on your feet.
+Panel Interview, ability to think about on the fly questions per multiple departments. 
+Come across clear, Honest and Prepared.  
