@@ -6,6 +6,10 @@ Class 301 reading notes
 [Class 1 day 1](##class-1-day-1)
 [class 1 day 2](##class-001-day-2)
 [Jquery Notes](##Jquery-notes-3/25/2020)
+[Flexbox and Templating](##flexbox-notes)
+[Interview Notes](###Interview-Questions)
+[Regex Notes](###Regex-Notes)
+[Lecture Notes](###Lecture-Notes)
 
 
 ## class 001 day 1
@@ -46,3 +50,64 @@ Class 301 reading notes
         a.when adding Jquery, make sure to have a fallback in case the CDN does not work. Have one stored with the rest of your website. 
         b. The script should be placed right before the closing body tag so that way all content is loaded before the Jquery is run. 
         
+## Flexbox Notes
+
+1. Justify-Content : aligns flex items along main axis
+    1. flex-start; (default)
+    2. flex-end;
+    3. space-between;
+    4. space-around;
+2. align-items : aligns flex items along cross axis
+    1. flex-start;
+    2. flex-end;
+    3. center;
+    4. baseline;
+    5. stretch; (default)
+3. flex-direction : defines the direction of main axis
+    1. row; (default)
+    2. row-reverse;
+    3. column; 
+    4. column-reverse;
+4. order : specifies order of items
+    1. integers of ect -2,-1,0,1,2 ect ;
+5. align-self : aligns flex item along cross axis overiding align-items
+    1. flex-start;
+    2. flex-end;
+    3. center; 
+    4. baseline
+    5. stretch
+6. flex-wrap : determines whether it wil be single line or wrapped on multiple lines
+    a. nowrap; (default)
+    b. wrap; 
+    c. wrap-reverse;
+7. flex-flow : short for flex-direction and flex-wrap
+    a. use both flex-direction and flex wrap properties
+8. align-content : aligns flex containers lines within flex container when there is extra space on cross axis
+    a. flex-start;
+    b. flex-end;
+    c. center;
+    d. space-between;
+    e. space-around;
+    f. stretch
+
+### Interview Questions
+
+    Practice the ability to think on your feet.
+    Panel Interview, ability to think about on the fly questions per multiple departments. 
+    Come across clear, Honest and Prepared.  
+
+### Regex Notes
+
+1. What is Regex?
+    1. Regex stands for Regular Expressions
+    2. Regex can be used to extract text from information
+    3. Regex can be used in almost all languages
+2. Anchors
+    1. **^start** matches strings that start with the word **start**.
+    2. **end$** matches the string that ends with **end**.
+    3. you can use **^start end$** to match and exact string
+    4. you can just use some string in place to look for that string as well
+3. Character Classes
+    1. **\d** matches a single character that is a digit
+    2. **\w** matches a word character 
+    3. **\s** matches a whitespace character
