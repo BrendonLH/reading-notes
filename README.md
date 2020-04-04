@@ -10,6 +10,7 @@ Class 301 reading notes
 [Interview Notes](###Interview-Questions)
 [Regex Notes](###Regex-Notes)
 [Lecture Notes](###Lecture-Notes)
+[Partner Power Hour](###Partner-Power-Hour)
 
 
 ## class 001 day 1
@@ -111,3 +112,36 @@ Class 301 reading notes
     1. **\d** matches a single character that is a digit
     2. **\w** matches a word character 
     3. **\s** matches a whitespace character
+
+### Partner Power Hour
+    1. Speaker
+        a. JB Tellez : Instructor at codefellows :paython :Javascript
+    2. Topic
+        b. Telecommunicating : Dispatches From a Basement
+    3. Notes 
+        a. Pros and Cons of Telecommunicating
+            1.Pros
+                a. High Productivity
+                b. Work from anywhere (with internet connection)
+                c. Flow (get into the zone, able to focus, time flies by)
+            2. Cons
+                a. technical difficulties
+                b. Housemates
+                c. isolation
+        b. Stratagies
+            1. Balance(maintain work life balance)
+                a. on the person to set a balanced schedule
+                b. use the power of no (use time to recharge)
+                c. Exercise
+                d. Friends (prioritize)
+                e. Controlling Anxiety
+        c. Interpersonal Gotchas
+            1. Eye Contact
+                a. keep eyes on camera so appears to be interested
+            2. Tired (take breaks, watch your sleep)
+            3. Nice Spectrum
+                a. be nice rather than not nice. 
+            4. Intro/Extro/Ambo
+                a. Introvert --- alone recharges batteries
+                b. extrovert --- opposite of introvert
+            
