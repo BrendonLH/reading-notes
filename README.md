@@ -11,6 +11,7 @@ Class 301 reading notes
 [Regex Notes](###Regex-Notes)
 [Lecture Notes](###Lecture-Notes)
 [Partner Power Hour](###Partner-Power-Hour)
+[Heroku Deployement](###Heroku-Deployement)
 
 
 ## class 001 day 1
@@ -144,4 +145,24 @@ Class 301 reading notes
             4. Intro/Extro/Ambo
                 a. Introvert --- alone recharges batteries
                 b. extrovert --- opposite of introvert
-            
+
+### Heroku Deployement
+
+1. Heroku
+    1.  Heroku is a cloud platform that lets develoers build and deploy apps
+    2.  Use heroku login to login to the heroku CLI
+    3.  npm install will create the node_modules and place the neccessary files into it
+    4. acronym for dirt -data intensive realtime apoplications
+2. nodeJS
+    1. nodeJS allows you to build serverside and networking apps
+    2. written in javascript
+    3. example for porting
+        a. var http = require("http");
+
+        http.createServer(function(request, response) {
+            response.writeHead(200, {"Content-Type": "text/plain"});
+            response.write("It's alive!");
+            response.end();
+        }).listen(3000);
+
+            this will write 'its alive' and listen for port 3000. you can even use the HTTP syntax and look up this on your smartphone as long as the server is running. 
