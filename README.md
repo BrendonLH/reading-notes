@@ -12,6 +12,7 @@ Class 301 reading notes
 [Lecture Notes](###Lecture-Notes)
 [Partner Power Hour](###Partner-Power-Hour)
 [Heroku Deployement](###Heroku-Deployement)
+[Node](###Node-JS)
 
 
 ## class 001 day 1
@@ -166,3 +167,16 @@ Class 301 reading notes
         }).listen(3000);
 
             this will write 'its alive' and listen for port 3000. you can even use the HTTP syntax and look up this on your smartphone as long as the server is running. 
+
+### Node JS
+
+    1. What is Node?
+        a. Node.js is event based runtime that uses googles V8 engine and libuv library.
+        b. node is not run in the browser but uses utility methods
+        c. node lets us run javascript on the server.
+    2. How to install node.js
+        a. use a node package manager (npm) as this is the easiest way.
+        b. use npm install to install the necessary packages.
+    3. Install a package locally 
+        a. npm init -y  will install and auto populate package.json file.
+        b. npm install lodash --save will install a dependancy in the package.json
