@@ -13,6 +13,7 @@ Class 301 reading notes
 [Partner Power Hour](###Partner-Power-Hour)
 [Heroku Deployement](###Heroku-Deployement)
 [Node](###Node-JS)
+[Api's Continued](###Api's-Continued)
 
 
 ## class 001 day 1
@@ -180,3 +181,15 @@ Class 301 reading notes
     3. Install a package locally 
         a. npm init -y  will install and auto populate package.json file.
         b. npm install lodash --save will install a dependancy in the package.json
+
+### Api's Continued
+## What Google Learned From Its Quest to Build the Perfect Team
+    1. What Google Learned from its Quest to Build the Perfect Team.
+
+    The article is about team optimization in the workplace. Google created a project called Project Aristotle in order to find out why some teams were successful while others were not.
+
+    they found that there are typically 2 kinds if team collaboration, one where there is a clear leader and the team sticks to the agenda and closes the meeting with little input from other members of the team. while the other has no clear leader, the topics of discussion can branch off of the main, people have equal opportunity to talk and collaborate, even going as far as to talk about things outside of work. 
+
+    what Aristotle found was that the best teams all had an equal voice at the table. No one person was necessarily leading and all members were safe to address any problems. the best teams do not seperate work and life so much and were very attuned to social sensitively. 
+
+    the main point I took away, was that the best teams are open and can talk to each other. communication is how to be successful. 
