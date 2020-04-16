@@ -3,17 +3,30 @@ Class 301 reading notes
 
 # Table of Contents
 
-[Class 1 day 1](##class-1-day-1)
+[Class 1 day 1](##class-1-day-1) 
+
 [class 1 day 2](##class-001-day-2)
+
 [Jquery Notes](##Jquery-notes-3/25/2020)
+
 [Flexbox and Templating](##flexbox-notes)
+
 [Interview Notes](###Interview-Questions)
+
 [Regex Notes](###Regex-Notes)
+
 [Lecture Notes](###Lecture-Notes)
+
 [Partner Power Hour](###Partner-Power-Hour)
+
 [Heroku Deployement](###Heroku-Deployement)
+
 [Node](###Node-JS)
+
 [Api's Continued](###Api's-Continued)
+
+[SQL](###SQL)
+
 
 
 ## class 001 day 1
@@ -193,3 +206,25 @@ Class 301 reading notes
     what Aristotle found was that the best teams all had an equal voice at the table. No one person was necessarily leading and all members were safe to address any problems. the best teams do not seperate work and life so much and were very attuned to social sensitively. 
 
     the main point I took away, was that the best teams are open and can talk to each other. communication is how to be successful. 
+
+### SQL
+1. WHat is SQL?
+     1. SQL stands for **structured Query Language** 
+     2. designed to allow technical and non technical users to manipulate data with simplicity.
+2. Some other SQL databases:
+    1. SQLite
+    2. MySQL
+    3. Postgres
+    4. Oracle
+4. Relational Database
+    1. a relational database is similar to an excel spreadsheet as it is a collection of a 2 dimentsional related tables. 
+    2. fixed number of named columns and any number of rows of data
+5. Tags for SQL
+    1. **SELECT** tag would work similar to a query and can be used to select from the columns in a table
+    2. **FROM** is what table you are grabbing the data from
+    3. the * tag indicated you are retrieving all the data from the table.
+    4. EXAMPLE
+        1. SELECT column a, column b FROM mytable
+            2. this will select all the data from both column a and column b that is in mytable
+    5. The **WHERE** is used to filter results
+    6. there are many other operators that can be used to filter through data such as **BETWEEN** 10 **AND** 20 just as an example
