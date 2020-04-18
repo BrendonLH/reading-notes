@@ -27,6 +27,8 @@ Class 301 reading notes
 
 [SQL](###SQL)
 
+[Functional Programming](###Functional-Programming)
+
 
 
 ## class 001 day 1
@@ -228,3 +230,11 @@ Class 301 reading notes
             2. this will select all the data from both column a and column b that is in mytable
     5. The **WHERE** is used to filter results
     6. there are many other operators that can be used to filter through data such as **BETWEEN** 10 **AND** 20 just as an example
+
+### Functional Programming
+    1. Functional programming is the building software by using pure functions, avoiding shared state, mutable data, and side-effects.
+    2. Functional code tends to be more concise and predictable compared to object oriented programming. 
+    2. Pure Functions
+        a. A pure function is a function that given the same input always returns the same output with no side effects.
+        b. Any function that relies on a random number generator cannot be pure.
+    3. 
