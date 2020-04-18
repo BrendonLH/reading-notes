@@ -237,4 +237,4 @@ Class 301 reading notes
     2. Pure Functions
         a. A pure function is a function that given the same input always returns the same output with no side effects.
         b. Any function that relies on a random number generator cannot be pure.
-    3. 
+### Refactoring
