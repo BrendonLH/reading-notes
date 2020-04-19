@@ -17,7 +17,7 @@ Class 301 reading notes
 
 [Lecture Notes](###Lecture-Notes)
 
-[Partner Power Hour : Telecommunicating](###Partner-Power-Hour-:-Telecommunicating)
+[Partner Power Hour : Telecommunicating](###Partner-Power-Hour-Telecommunicating)
 
 [Partner Power Hour : Cyber Security ](###Partner-Power-Hour-Cyber-Security)
 
@@ -134,7 +134,7 @@ Class 301 reading notes
     2. **\w** matches a word character 
     3. **\s** matches a whitespace character
 
-### Partner Power Hour : Telecommunicating
+### Partner Power Hour Telecommunicating
     1. Speaker
         a. JB Tellez : Instructor at codefellows :Python :Javascript
     2. Topic
