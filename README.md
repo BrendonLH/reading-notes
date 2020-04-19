@@ -17,7 +17,10 @@ Class 301 reading notes
 
 [Lecture Notes](###Lecture-Notes)
 
-[Partner Power Hour](###Partner-Power-Hour)
+[Partner Power Hour : Telecommunicating](###Partner-Power-Hour-:-Telecommunicating)
+
+[Partner Power Hour : Cyber Security ](###Partner-Power-Hour-Cyber-Security)
+
 
 [Heroku Deployement](###Heroku-Deployement)
 
@@ -26,6 +29,8 @@ Class 301 reading notes
 [Api's Continued](###Api's-Continued)
 
 [SQL](###SQL)
+
+[Functional Programming](###Functional-Programming)
 
 
 
@@ -129,11 +134,11 @@ Class 301 reading notes
     2. **\w** matches a word character 
     3. **\s** matches a whitespace character
 
-### Partner Power Hour
+### Partner Power Hour : Telecommunicating
     1. Speaker
-        a. JB Tellez : Instructor at codefellows :paython :Javascript
+        a. JB Tellez : Instructor at codefellows :Python :Javascript
     2. Topic
-        b. Telecommunicating : Dispatches From a Basement
+        a. Telecommunicating : Dispatches From a Basement
     3. Notes 
         a. Pros and Cons of Telecommunicating
             1.Pros
@@ -161,10 +166,61 @@ Class 301 reading notes
                 a. Introvert --- alone recharges batteries
                 b. extrovert --- opposite of introvert
 
+### Partner Power Hour Cyber Security
+    1. Speaker
+        a. Stephen Semmelroth 
+    2. Topic
+        a. Cyber Security
+    3. Notes
+        1. Ranier Cyber
+            a. vet Cyber recruitment
+            b. Stratacor
+        2. Cyber security
+            a. the art of protecting devices networks and data from unauthorized access.
+        3. two types of companies
+            a. cyber suppors mission of company
+            b. cyber is the mission of the company
+        4. 7 catagories of jobs
+            a. development
+                1. front end
+                2. back end
+                3. back end
+                4. project manager
+            b. intelligence
+                1. cyber threat intelligence
+                2. reverse engineer
+            c. analytics
+            d. operations
+            e. prevention
+            f. recovery
+            g. buisness operations
+                1. sales
+                2. sales engineer
+                3. customer success
+                4. buisness developer
+        5. Cyber is an art so is analyzing the market.
+        6. most companies recruiting on east coast. 
+        7. Do Nowz
+            1. two things to do
+                a. talk about the threat (APT campaign)
+                    1. mittre attack framework
+                    2. use essential eight
+                b. what happens when you type into a url and press enter
+                    1. answer in a relevent way that makes sense to the company
+                    2. get cloud now (AWS)
+            2. Understand Regex
+            3. Learn Python/C/Go
+            4. read the books sandworm, countdown to zeroday
+            5. get lab based certifications (oscp)
+            6. OWASP
+            
+
+    
+
 ### Heroku Deployement
 
 1. Heroku
-    1.  Heroku is a cloud platform that lets develoers build and deploy apps
+    1.  Heroku is a cloud platform that lets developers build and deploy apps
     2.  Use heroku login to login to the heroku CLI
     3.  npm install will create the node_modules and place the neccessary files into it
     4. acronym for dirt -data intensive realtime apoplications
@@ -228,3 +284,11 @@ Class 301 reading notes
             2. this will select all the data from both column a and column b that is in mytable
     5. The **WHERE** is used to filter results
     6. there are many other operators that can be used to filter through data such as **BETWEEN** 10 **AND** 20 just as an example
+
+### Functional Programming
+    1. Functional programming is the building software by using pure functions, avoiding shared state, mutable data, and side-effects.
+    2. Functional code tends to be more concise and predictable compared to object oriented programming. 
+    2. Pure Functions
+        a. A pure function is a function that given the same input always returns the same output with no side effects.
+        b. Any function that relies on a random number generator cannot be pure.
+### Refactoring
