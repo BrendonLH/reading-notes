@@ -32,6 +32,8 @@ Class 301 reading notes
 
 [Functional Programming](###Functional-Programming)
 
+[The Call Stack](###The-Call_stack)
+
 
 
 ## class 001 day 1
@@ -292,3 +294,18 @@ Class 301 reading notes
         a. A pure function is a function that given the same input always returns the same output with no side effects.
         b. Any function that relies on a random number generator cannot be pure.
 ### Refactoring
+
+
+### The Call Stack
+
+1. What is the call stack?
+    1. a call stack is a mechanism for the javascript interpreter to help to keep track of its place when calling functions.
+    2. the call stack is primarily used for function invocation(call).
+    3. Uses the last in first out principle.
+    4. can only do one thing at a time.
+    5. when a stack is created it occupies a temporary memory.
+2. how it works
+    1. when a script calls a function it is added to the call stack and run (including the functions within the function in the call stack) then removes the function from the call stack then moves onto the next function from where it left off.
+    2. if the stack takes up more space than it had assigned it results in a **stack overflow** error.
+3. an example
+    1. imagine a stack of books, you add to the top and take from the top. last in first out means that last thing added to the top of the book pile will be the first thing taken out. Call stack works the same way.
