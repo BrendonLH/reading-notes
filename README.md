@@ -21,6 +21,8 @@ Class 301 reading notes
 
 [Partner Power Hour : Cyber Security ](###Partner-Power-Hour-Cyber-Security)
 
+[Partner Power Hour : ]
+
 
 [Heroku Deployement](###Heroku-Deployement)
 
