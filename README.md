@@ -21,7 +21,7 @@ Class 301 reading notes
 
 [Partner Power Hour : Cyber Security ](###Partner-Power-Hour-Cyber-Security)
 
-[Partner Power Hour : ]
+[Partner Power Hour : ]()
 
 
 [Heroku Deployement](###Heroku-Deployement)
@@ -34,7 +34,9 @@ Class 301 reading notes
 
 [Functional Programming](###Functional-Programming)
 
-[The Call Stack](###The-Call_stack)
+[The Call Stack](###The-Call-stack)
+
+[EJS](###ejs)
 
 
 
@@ -311,3 +313,18 @@ Class 301 reading notes
     2. if the stack takes up more space than it had assigned it results in a **stack overflow** error.
 3. an example
     1. imagine a stack of books, you add to the top and take from the top. last in first out means that last thing added to the top of the book pile will be the first thing taken out. Call stack works the same way.
+
+### EJS 
+
+1. What is EJS?
+    1. EJS is **Embedded Javascript Templates**
+    2. EJS is used to be able to generate HTML markup with javascript.
+2. Tags
+    1. The tags used are **<% %>** and using varying additions like **<%= %>** or **<%- %>**.
+    2. these tags evaluate what is inside of them as javascript.
+3. How to install
+    1. in the terminal run **npm install ejs**
+4. Add files and folders
+    1. create a folder at the same level as you public folder name **views**
+        1. in your **views** folder, add your html files but instead of index.html name it **index.ejs**.
+    
