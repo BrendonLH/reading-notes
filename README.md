@@ -38,6 +38,8 @@ Class 301 reading notes
 
 [EJS](###ejs)
 
+[Partials](###Partials)
+
 
 
 ## class 001 day 1
@@ -327,4 +329,11 @@ Class 301 reading notes
 4. Add files and folders
     1. create a folder at the same level as you public folder name **views**
         1. in your **views** folder, add your html files but instead of index.html name it **index.ejs**.
+    
+### Partials
+    1. Partials and EJS?
+        1. We use partials in EJS to reuse the same block of code across our pages. 
+            a. if a header and footer is the same on multiple pages, we can use a new ejs file to add the code and then call it to the other pages similar to how a function works.
+        2. When setting up ejs partials, node install and ejs install are both required. 
+        3. Any ejs partials files should be inside a partials folder where the actual rendered ejs files should be in the pages folder. It is important to seperate these as partials only works like a function and the pages is the actual rendered content. 
     
