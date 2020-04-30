@@ -21,6 +21,8 @@ Class 301 reading notes
 
 [Partner Power Hour : Cyber Security ](###Partner-Power-Hour-Cyber-Security)
 
+[Partner Power Hour : ]()
+
 
 [Heroku Deployement](###Heroku-Deployement)
 
@@ -32,7 +34,11 @@ Class 301 reading notes
 
 [Functional Programming](###Functional-Programming)
 
-[The Call Stack](###The-Call_stack)
+[The Call Stack](###The-Call-stack)
+
+[EJS](###ejs)
+
+[Partials](###Partials)
 
 
 
@@ -309,3 +315,25 @@ Class 301 reading notes
     2. if the stack takes up more space than it had assigned it results in a **stack overflow** error.
 3. an example
     1. imagine a stack of books, you add to the top and take from the top. last in first out means that last thing added to the top of the book pile will be the first thing taken out. Call stack works the same way.
+
+### EJS 
+
+1. What is EJS?
+    1. EJS is **Embedded Javascript Templates**
+    2. EJS is used to be able to generate HTML markup with javascript.
+2. Tags
+    1. The tags used are **<% %>** and using varying additions like **<%= %>** or **<%- %>**.
+    2. these tags evaluate what is inside of them as javascript.
+3. How to install
+    1. in the terminal run **npm install ejs**
+4. Add files and folders
+    1. create a folder at the same level as you public folder name **views**
+        1. in your **views** folder, add your html files but instead of index.html name it **index.ejs**.
+    
+### Partials
+    1. Partials and EJS?
+        1. We use partials in EJS to reuse the same block of code across our pages. 
+            a. if a header and footer is the same on multiple pages, we can use a new ejs file to add the code and then call it to the other pages similar to how a function works.
+        2. When setting up ejs partials, node install and ejs install are both required. 
+        3. Any ejs partials files should be inside a partials folder where the actual rendered ejs files should be in the pages folder. It is important to seperate these as partials only works like a function and the pages is the actual rendered content. 
+    
