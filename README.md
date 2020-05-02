@@ -21,7 +21,7 @@ Class 301 reading notes
 
 [Partner Power Hour : Cyber Security ](###Partner-Power-Hour-Cyber-Security)
 
-[Partner Power Hour : ]()
+[Partner Power Hour : John Cokos ](###John-Cokos)
 
 
 [Heroku Deployement](###Heroku-Deployement)
@@ -222,7 +222,34 @@ Class 301 reading notes
             5. get lab based certifications (oscp)
             6. OWASP
             
-
+### John Cokos
+1.  The Ideal President
+    1. Prior Career
+        1. Military
+        2. Buisnessman
+        3. Lawyers
+    2. Qualifications & Skills
+        1. Public Speaking
+        3. Diplomacy
+        4. Leadership
+        5. Critical Thinking
+    3. The End Game
+        1. It should work
+        2. Be available
+        3. efficient
+        4. Organized
+    4. Blockers 
+        1. money
+            1. price
+            2. no job
+        2. distance
+    5. Break down the project
+        1. cost
+        2. effort
+        3. complexity
+        4. impact
+        5. dependancies
+        6. time
     
 
 ### Heroku Deployement
