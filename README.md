@@ -21,7 +21,7 @@ Class 301 reading notes
 
 [Partner Power Hour : Cyber Security ](###Partner-Power-Hour-Cyber-Security)
 
-[Partner Power Hour : ]()
+[Partner Power Hour : John Cokos ](###John-Cokos)
 
 
 [Heroku Deployement](###Heroku-Deployement)
@@ -222,7 +222,7 @@ Class 301 reading notes
             5. get lab based certifications (oscp)
             6. OWASP
             
-
+### John Cokos
     
 
 ### Heroku Deployement
