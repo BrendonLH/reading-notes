@@ -40,6 +40,8 @@ Class 301 reading notes
 
 [Partials](###Partials)
 
+[Sending Form Data](###Sending-Form-Data)
+
 
 
 ## class 001 day 1
@@ -364,3 +366,19 @@ Class 301 reading notes
         2. When setting up ejs partials, node install and ejs install are both required. 
         3. Any ejs partials files should be inside a partials folder where the actual rendered ejs files should be in the pages folder. It is important to seperate these as partials only works like a function and the pages is the actual rendered content. 
     
+### Sending Form Data
+    1. How to send data
+        1. Forms
+            1. the form element defines where and how the data will be sent using 'Action' and 'Method'
+        2. Action
+            1. defines where the data gets sent
+            2. must be relative or absolute URL
+                1. example: <form action='https://url.com>
+        3. Method
+            1. defines how the data will be sent
+            2. uses get and post method
+                1. GET
+                    1. get tells the browser to send back a given resource
+                2. POST
+                    1. post tells the browser to look at the data that is provided and give a response
+                        1. example: <form method='POST'>
