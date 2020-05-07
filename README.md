@@ -42,6 +42,8 @@ Class 301 reading notes
 
 [Sending Form Data](###Sending-Form-Data)
 
+[Normalization](###Normalization)
+
 
 
 ## class 001 day 1
@@ -382,3 +384,5 @@ Class 301 reading notes
                 2. POST
                     1. post tells the browser to look at the data that is provided and give a response
                         1. example: <form method='POST'>
+
+### 
