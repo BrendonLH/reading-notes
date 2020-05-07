@@ -385,4 +385,14 @@ Class 301 reading notes
                     1. post tells the browser to look at the data that is provided and give a response
                         1. example: <form method='POST'>
 
-### 
+### Normalization
+    1. Database normalization is a process used to organize a database into tables and columns. 
+    2. limiting a table to one purpose reduces the number of duplicate data contained within your database.
+    3. Reasons to normalize databases
+        1.  minimize duplicate data
+        2.  minimize or avoid data modification issues
+        3. simplify queries. 
+    4. Duplicated information presents two problems:
+        1. increases storage and decrease performance.
+        2. becomes more difficult to maintain data changes.
+    5. Three common forms of database normalization: 1st, 2nd, and 3rd normal form. They are abbreviated as 1NF, 2NF, and 3NF. 
