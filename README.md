@@ -44,6 +44,8 @@ Class 301 reading notes
 
 [Normalization](###Normalization)
 
+[Diversity](###Diversity)
+
 
 
 ## class 001 day 1
@@ -396,3 +398,14 @@ Class 301 reading notes
         1. increases storage and decrease performance.
         2. becomes more difficult to maintain data changes.
     5. Three common forms of database normalization: 1st, 2nd, and 3rd normal form. They are abbreviated as 1NF, 2NF, and 3NF. 
+
+### Diversity
+    1. The Bias toward Male dominated tech
+        1. can be linked to the rise of male targeted gaming in the 1980's.
+            2. this resulted in a experience gap that allowed men to test into higher AP courses than their female counterparts.
+        2. influenced by male targeted commercials from companies such as apple.
+        3. Not having female role models in the industry is reported as having a feeling of isolation.
+        4. Multiple studies have shown diveristy directly influences better creativity and innovation.
+            1. diverse groups bring different points of view to a problem thus offering many solutions
+        5.  “female representation in top management leads to an increase of $42 million in firm value.”
+        6. Diversity starts at the leadership. Once leadership decides that diversity is a priority, then changes can be implemented. 
