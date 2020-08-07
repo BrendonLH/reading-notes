@@ -1,7 +1,7 @@
-# reading-notes
+# Reading-notes
 Class 301 reading notes
 
-# Table of Contents
+## Table of Contents
 
 [Class 1 day 1](##class-1-day-1) 
 
