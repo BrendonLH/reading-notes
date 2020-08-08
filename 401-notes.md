@@ -2,7 +2,9 @@
 
 ## Table of COntents
 
-* [Engineering Topics](Engineering-Topics)
+* [Engineering Topics](engineering-topics)
+* [Node Ecosystem](node-ecosystem)
+
 
 ### Engineering Topics
 1. Solving Problems
@@ -22,3 +24,34 @@
 4. The 5 whys
 
         When encountering a problem, ask "why". Asking why will give a reason that can be followed up with anoyher why if needed. Asking why will eventually bring out the root problem. Make sure the answers are not vague but as specific as possible. This will allow a more apporachable solution. The goal is to create a preventative solution rather than just a bandaid for the problem at hand. 
+### Node Ecosystem
+    1.Why would you want to run JavaScript code outside of a browser?
+        a. You can run Javascript on a server, You can build Desktop Widgets as well. Javascript run outside the browser allows us to work on server side code and un it inside the terminal as well. 
+        source. https://www.quora.com/Can-you-run-JavaScript-outside-of-a-browser 
+
+    2.What is the difference between a module and a package?
+        a. A module is is a single Javascript File that has some functinality and a Package is a directory with a one or more modules inside of it and has a package.json file with info about the package.
+        source.https://stackoverflow.com/questions/20008442/difference-between-a-module-and-a-package-in-node-js#:~:text=A%20module%20is%20a%20single%20JavaScript%20file%20that,package.json%20file%20which%20has%20metadata%20about%20the%20package.
+
+    3.What does the node package manager do?
+        a. Allows Javascript developers to share packages. It consists of A command line interface(CLI) and an online repository that hosts the packages.
+    4.Provide code snippets showing 3 different ways to export a function from a node module
+        1. module.exports = function (msg) { 
+            console.log(msg);
+        }; 
+        var msg = require('./Log.js');
+        msg('Hello World');
+
+        2.  module.exports = function (firstName, lastName) {
+                this.firstName = firstName;
+                this.lastName = lastName;
+                this.fullName = function () { 
+                    return this.firstName + ' ' + this.lastName;
+                }
+            }
+            var person = require('./Person.js');
+
+            var person1 = new person('James', 'Bond');
+
+            console.log(person1.fullName());
+        Source. Node.JS tutorialsteacher.com
