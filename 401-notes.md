@@ -35,6 +35,7 @@
 
     3.What does the node package manager do?
         a. Allows Javascript developers to share packages. It consists of A command line interface(CLI) and an online repository that hosts the packages.
+        
     4.Provide code snippets showing 3 different ways to export a function from a node module
         1. module.exports = function (msg) { 
             console.log(msg);
