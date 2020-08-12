@@ -1,6 +1,8 @@
 # Class 401-Javascript Reading Notes
 
-## Table of COntents
+## Engineering Topics
+
+## Table of Contents
 
 * [Engineering Topics](engineering-topics)
 * [Node Ecosystem](node-ecosystem)
