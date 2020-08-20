@@ -14,3 +14,6 @@
  2. [Functional Programming](./401-notes/functional-programming.md)
 
  2. [Data-noSQL](./401-notes/data-noSQL.md) 
+
+ 2. [Advanced-Mongo](./401-notes/advanced-mongo.md) 
+
