@@ -13,4 +13,10 @@
 
  2. [Functional Programming](./401-notes/functional-programming.md)
 
- 2. [Data-noSQL](./401-notes/data-noSQL.md)
+ 3. [Data noSQL](./401-notes/data-noSQL.md) 
+
+ 4. [Advanced Mongo](./401-notes/advanced-mongo.md)
+
+
+ 5. [Linked Lists](./401-notes/linked-lists.md) 
+
