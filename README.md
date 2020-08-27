@@ -20,3 +20,5 @@
 
  5. [Linked Lists](./401-notes/linked-lists.md) 
 
+ 5. [HTTP and REST](./401-notes/HTTP-REST.md) 
+
