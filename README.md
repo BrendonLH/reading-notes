@@ -22,3 +22,5 @@
 
  5. [HTTP and REST](./401-notes/HTTP-REST.md) 
 
+ 6. [Express Routing and API](./401-notes/express-routing.md) 
+
