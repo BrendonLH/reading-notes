@@ -24,5 +24,7 @@
 
  6. [Express Routing and API](./401-notes/express-routing.md) 
 
- 7. [Express Routing and API](./401-notes/api-server.md) 
+ 7. [API-server](./401-notes/api-server.md) 
+
+ 8. [Stacks and Queues](./401-notes/stacks-queus.md) 
 
