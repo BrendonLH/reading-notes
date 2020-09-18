@@ -17,6 +17,23 @@
 
  4. [Advanced Mongo](./401-notes/advanced-mongo.md)
 
-
  5. [Linked Lists](./401-notes/linked-lists.md) 
+
+ 6. [HTTP and REST](./401-notes/HTTP-REST.md) 
+
+ 7. [Express Routing and API](./401-notes/express-routing.md) 
+
+ 8. [API-server](./401-notes/api-server.md) 
+
+ 9. [Stacks and Queues](./401-notes/stacks-queus.md) 
+
+ 10. [Authentication](./401-notes/authentication.md)
+
+ 11. [Oauth](./401-notes/oAuth.md) 
+
+ 12. [Express](./401-notes/express.md)
+
+ 13. [Bearer Authorization](./401-notes/bearer.md)
+
+
 
