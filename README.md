@@ -43,9 +43,24 @@
 
  17. [Trees](./401-notes/trees.md)
 
- 17. [Socket-io](./401-notes/socket-io.md)
+ 18. [Socket-io](./401-notes/socket-io.md)
 
- 17. [Trees](./401-notes/trees.md)
+ 19. [HTTP/Rest](./401-notes/HTTP-REST.md)
+
+ 20. [Message Queues](./401-notes/message-queues.md)
+
+ 21. [Props and State](./401-notes/props-state.md)
+
+ 22. [Data noSQL](./401-notes/data-noSQL.md)
+
+ 23. [Hash Tables](./401-notes/hash-tables.md)
+
+ 24. [Componenet Based UI](./401-notes/component-based-ui.md)
+
+ 25. [Component Composition](./401-notes/component-composition.md)
+
+ 26. [Hash Tables](./401-notes/hash-tables.md)
+
 
 
 
