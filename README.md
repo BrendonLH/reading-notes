@@ -61,6 +61,10 @@
 
  26. [Hash Tables](./401-notes/hash-tables.md)
 
+ 27. [Hash Tables](./401-notes/routing.md)
+
+ 27. [Hash Tables](./401-notes/hooks-API.md)
+
 
 
 
