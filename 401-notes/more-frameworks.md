@@ -10,8 +10,10 @@
 ### Questions
 
 1. What does React Native do when it builds your application?
-    a. React creates a virtual dom in memory. Instead of directly changing dom stuff, it creates a second copy of the dom and then once everything is ready, makes all the changes over the dom. 
+    
+        a. React creates a virtual dom in memory. Instead of directly changing dom stuff, it creates a second copy of the dom and then once everything is ready, makes all the changes over the dom. 
 2. Can you simply deploy a react web app to the phone?
+   
     a. yes and no, directly deploying as in a local downloaded app from some sort of application store is not possible. You can however, use react native to build the same site just optimized for mobile development. There are some slight differences when building out things, but it still does all the good stuff react does. 
     
 
