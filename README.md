@@ -1,15 +1,15 @@
 # Code Fellows Reading Notes
 
-## Directory
-[301](#301-learning-journal)
-[401](#401-learning-journal)
+* ## [Code 301 - Intermediate Software Development](#301-learning-journal)
+* ## [Code 401 - Advanced Software Development Javascript](#401-learning-journal)
+* ## [Code 401 - Advanced Software Development Python](#401-learning-journal)
 
 ------------------------
-### 401 Learning Journal
+<!-- ### 401 Learning Journal -->
 ------------------------
 
-#### Table of Contents 
- 1. [Engineering Topics](./401-notes/engineering-topics.md)
+<!-- #### Table of Contents  -->
+ <!-- 1. [Engineering Topics](./401-notes/engineering-topics.md)
 
  2. [Functional Programming](./401-notes/functional-programming.md)
 
@@ -63,7 +63,7 @@
 
  27. [Hash Tables](./401-notes/routing.md)
 
- 27. [Hash Tables](./401-notes/hooks-API.md)
+ 27. [Hash Tables](./401-notes/hooks-API.md) -->
 
 
 
