@@ -1,9 +1,11 @@
 # Table of Contents and Directory
 
-## [The Command Line](the-command-line)
+## [Reading (topic)](first-reading)
 
-## [Introduction to SQL](./introduction-to-sql/introduction-to-sql.md)
+## [The Command Line](the-command-line)
 
 ## [Solo Learn Notes](solo-learn-notes)
 
 ## [Testing and Modules](testing-and-modules)
+
+## [FileIO and Exceptions](fileio-exceptions)
