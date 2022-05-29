@@ -11,3 +11,5 @@
 ## [FileIO and Exceptions](fileio-exceptions)
 
 ## [Classes,Objects and Recursion](classes-objects-recursion)
+
+## [Linked Lists](/linked-lists/README.md)
