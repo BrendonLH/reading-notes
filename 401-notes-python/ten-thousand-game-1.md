@@ -9,7 +9,7 @@
             >
             >Import random
             >
-            > print(random.Randint(1,10))
+            > print(random.randint(1,10))
             >
             > console--> 7
     - Choice(list)
@@ -20,9 +20,37 @@
             >
             >list = [ 'item1' , 'item2', 'item3' ]
             >
-            > print(random.Choice(list))
+            > print(random.choice(list))
             >
             > console--> item2
+
+## What is Risk Analysis
+
+- risk analysis is identifying risks in applications/software and giving them priority in testing. 
+
+- Using risk analysis allows a dev to highlight problem areas and help mitigate any risks. this allows the dev the create solutions to potential problems at the beggining rather than fixing a problem during production.
+
+- some tools for helping with risk management: 
+    1. conduct risk analysis meetings
+    2. use max resources to mitigate high risks
+    3. create a risk database to be used in the future
+    4. set risk magnitude indicators:
+        - low 
+            - no financial or external exposure/loss
+        - med
+            - not desirable but tolerable, can lead to minor financial loss
+        - high
+            - critical, not tolerable, can face financial loss
+
+- perspective of risk assessment
+    1. Effect - event, condition or action and its impact
+    
+    2. Cause - Looking for reason of effect , cause or impact
+
+    3. Liklihood - to identify if a requirement will be 
+    satisfied. will the product do what it is supposed to do.
+
+
 
 
 
