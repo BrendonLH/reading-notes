@@ -13,3 +13,6 @@
 ## [Classes,Objects and Recursion](classes-objects-recursion)
 
 ## [Linked Lists](/linked-lists/README.md)
+
+## [Ten Thousand 1 Game](/401-notes-python/ten-thousand-game-1.md)
+
