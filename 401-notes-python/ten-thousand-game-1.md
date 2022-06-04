@@ -50,12 +50,17 @@
     3. Liklihood - to identify if a requirement will be 
     satisfied. will the product do what it is supposed to do.
 
+## Test Coverage
+from the article here is my uderstanding: 
 
+test coverage is not simply a number you should be aiming for. this can result in bad tests just to satisfy the testing coverage requirement lets say 80%. Bad tests are exactly that, bad tests. 
 
+instead, we should be making tests that can allow us to change code without causing production issues and tests should be catching bugs before they get into production. 
 
-
+overall, making our tests more meanigful is what I gathered from this article.
 
 
 
 ## Things I want to know more about
 
+are there risk analysis forms in software development? When we need to save anything related to risk analysis, are risks stored somehwere that costs money? what exactly are risk meetings and is that part of the agile environment? 
