@@ -16,3 +16,5 @@
 
 ## [Ten Thousand 1 Game](/401-notes-python/ten-thousand-game-1.md)
 
+## [Python Scope](/401-notes-python/python-scope.md)
+
