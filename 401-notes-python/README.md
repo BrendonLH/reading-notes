@@ -18,3 +18,5 @@
 
 ## [Python Scope](/401-notes-python/python-scope.md)
 
+## [Data Analysis](/401-notes-python/data-analysis.md)
+
