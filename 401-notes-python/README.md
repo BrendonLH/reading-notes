@@ -22,3 +22,5 @@
 
 ## [Pandas](/401-notes-python/TOPIC.md)
 
+## [Linear Regressions](/401-notes-python/linear-regressions.md)
+
