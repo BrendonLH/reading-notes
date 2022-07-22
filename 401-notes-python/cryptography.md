@@ -1,6 +1,6 @@
-# Readings (class-XX)
+# Readings (class-18)
 
-## Topic : (name)
+## Topic : Cryptography
 
 ### Encryption, decryption, and cracking
 - 
