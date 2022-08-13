@@ -27,3 +27,5 @@
 ## [Linear Regressions](/401-notes-python/linear-regressions.md)
 
 ## [Serverless Functions](/401-notes-python/serverless-functions.md)
+
+## [Django models/admin](/401-notes-python/django-models.md)
