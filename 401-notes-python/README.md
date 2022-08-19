@@ -29,3 +29,5 @@
 ## [Serverless Functions](/401-notes-python/serverless-functions.md)
 
 ## [Django models/admin](/401-notes-python/django-models.md)
+
+## [Custom forms/DjangoX](/401-notes-python/class-29.md)
