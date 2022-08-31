@@ -31,3 +31,5 @@
 ## [Django models/admin](/401-notes-python/django-models.md)
 
 ## [Custom forms/DjangoX](/401-notes-python/class-29.md)
+
+## [Permissions and PostgreSQL](/401-notes-python/class-32.md)
