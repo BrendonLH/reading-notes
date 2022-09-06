@@ -33,3 +33,5 @@
 ## [Custom forms/DjangoX](/401-notes-python/class-29.md)
 
 ## [Permissions and PostgreSQL](/401-notes-python/class-32.md)
+
+## [Authentication and Production](/401-notes-python/class-33.md)
