@@ -35,3 +35,5 @@
 ## [Permissions and PostgreSQL](/401-notes-python/class-32.md)
 
 ## [Authentication and Production](/401-notes-python/class-33.md)
+
+## [API Deployement](/401-notes-python/api-deployement.md)
