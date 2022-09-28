@@ -37,3 +37,5 @@
 ## [Authentication and Production](/401-notes-python/class-33.md)
 
 ## [API Deployement](/401-notes-python/api-deployement.md)
+
+## [Reading React 3](/401-notes-python/react-reading-3.md)
