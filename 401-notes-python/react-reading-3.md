@@ -11,7 +11,7 @@
         - passing down props to multi level componants through componants that dont need them.
     - term 3
         - definition
-- React context is used to more easily pass around state as opposed to props. context allows us to wrap our application that will allow the entire application to access data in our state.. 
+- React context is used to more easily pass around state as opposed to props. context allows us to wrap our application that will allow the entire application to access data in our state.
 
 
 ## Things I want to Know more about
