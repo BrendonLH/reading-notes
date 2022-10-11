@@ -39,3 +39,8 @@
 ## [API Deployement](/401-notes-python/api-deployement.md)
 
 ## [React](/401-notes-python/react.md)
+
+## [Reading React 3](/401-notes-python/react-reading-3.md)
+
+## [React Readings 4](./react-reading-4.md)
+
